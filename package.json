@@ -1,6 +1,6 @@
 {
   "name": "jest-liveserver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "live server environment for your jest tests",
   "main": "src/jestEnvironment.js",
   "scripts": {},
