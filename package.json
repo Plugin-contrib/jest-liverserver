@@ -1,18 +1,25 @@
 {
   "name": "jest-liveserver",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "live server environment for your jest tests",
   "main": "src/jestEnvironment.js",
   "scripts": {},
   "files": [
     "src"
   ],
-  "keywords": [],
+  "keywords": [
+    "jest",
+    "jest-environment",
+    "live-server"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jest-environment-node": "^24.9.0",
     "live-server": "^1.2.1"
+  },
+  "repository": {
+    "url": "https://github.com/Plugin-contrib/jest-liveserver"
   },
   "devDependencies": {}
 }
